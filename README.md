@@ -39,6 +39,5 @@
                  
                  
                  
-                 
-/home/nuraiym/Изображения/llllll.jpg
+              
 
